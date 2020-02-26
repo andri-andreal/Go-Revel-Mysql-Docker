@@ -2,7 +2,7 @@
 
    docker-compose up -d
 
-### Go to http://{Your }:9000/ and you'll see:
+### Go to http://{Your IP}:9010 and you'll see:
 
     "It works"
 

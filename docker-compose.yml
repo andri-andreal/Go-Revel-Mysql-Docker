@@ -5,7 +5,7 @@ services:
         ports:
             - 9010:9000
         volumes:
-            - .:/go/src/99erp
+            - .:/go/src/MyApp
         links:
             - db
     db:
